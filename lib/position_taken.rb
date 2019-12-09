@@ -5,7 +5,7 @@ def position_taken?(board, index)
     false
   elsif bord[index] == "X" || "O"
     true
-    
+  end
 end
 
 #board[index] == " " || ""
